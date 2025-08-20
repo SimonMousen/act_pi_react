@@ -2,6 +2,8 @@
 ## Integrantes
 
 - Jose Manuel Ruiz Zapata
+- Simón sierra lópez
+- Juan Jose giraldo monsalve
 
 ## Descripción
 Desarrollar un sistema para la administración y reserva de habitaciones en hoteles de lujo, enfocado en brindar una experiencia premium a los huéspedes y eficiencia operativa al personal gestionar limpieza, mantenimiento y estado de las habitaciones eficientemente.
