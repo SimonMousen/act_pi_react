@@ -1,4 +1,7 @@
 # Hotel JSJ
+## Integrantes
+
+- Jose Manuel Ruiz Zapata
 
 ## Descripción
 Desarrollar un sistema para la administración y reserva de habitaciones en hoteles de lujo, enfocado en brindar una experiencia premium a los huéspedes y eficiencia operativa al personal gestionar limpieza, mantenimiento y estado de las habitaciones eficientemente.
